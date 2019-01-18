@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# others
+*.DS_Store
+*.pickle
+*.db
+.vscode/
+.ipynb_checkpoints/
+*.pickle
+__pycache__/

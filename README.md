@@ -1,7 +1,6 @@
 # cs2notebooks
 
-# CS2: Data Structures & Applications 
-### using C++ & Jupyter Notebook
+# CS2: Data Structures & Applications using C++ & Jupyter Notebook
 
 
 ## Requirements

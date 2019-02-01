@@ -26,6 +26,6 @@
 -   open a terminal and cd into this cloned repo and run jupyter notebook
 
 ```
-    cd <cs2notebooks folder>
+    cd <cs2notebooks repo folder>
     jupyter notebook
 ```

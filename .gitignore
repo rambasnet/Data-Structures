@@ -113,3 +113,6 @@ venv.bak/
 __pycache__/
 
 *.log
+*.out
+*.exe
+*.bin

@@ -1,6 +1,6 @@
 /*
 A number of the form a + bi, in which i^2 = -1 and a and b are real numbers, 
-is called a complex number. We call a the real part and b the imaginary part of a + bi.
+is called a complex number. We call `a` the real part and `b` the imaginary part of a + bi.
 Complex numbers can also be represented as ordered pairs (a, b).
 Some mathematical operations on complex numbers are defined by the following rules:
 (a, b) + (c, d) = (a+c, b+d)

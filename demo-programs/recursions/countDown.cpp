@@ -28,7 +28,7 @@ void countDown(int n) {
     // base case
     if (n == 0) {
         sysclear();
-        cout << "354345436%^#%&@#$#@%$&23$" << endl;
+        cout << "#$%#$25354W#$@^%34ADF5436%^#%&@#$#@%$&23$" << endl;
         cout << "Blast Off..." << endl;
     }
     // general case
@@ -37,6 +37,7 @@ void countDown(int n) {
         cout << n << endl;
         msleep(1000);
         countDown(n-1);
+        //....
     }
 }
 

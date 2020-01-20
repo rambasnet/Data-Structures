@@ -31,3 +31,6 @@
     cd <cs2notebooks repo folder>
     jupyter notebook
 ```
+
+- Enter ctrl+c to stop jupyter notebook from the terminal where its running from
+- $ conda deactivate # to deactivate the virtual env and go back to base installation

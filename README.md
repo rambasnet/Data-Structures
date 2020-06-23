@@ -1,4 +1,5 @@
-# CS2: Data Structures & Applications in C++ using Jupyter Notebook
+# Data Structures & Applications
+- Jupyter Notebooks for teaching and learning Data structures using C++
 
 ## Requirements
 

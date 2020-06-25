@@ -4,13 +4,13 @@
 
 
 ## Requirements
-
-- Linux/MacOS (Not tested on Windows)
+- Linux/MacOS/WSL on Windows (Not tested on Windows itself)
 - Jupyter Notebook
 - xeus-cling notebook kernel
 - git
 
 ## Install required tools
+- Note: these libraries and tools need to be installed just once, if you've Jupyter Notebook with C++, you can safely ignore this section.
 
 - Install Miniconda: [https://conda.io/miniconda.html](https://conda.io/miniconda.html)
 - open a terminal/shell and run the following commands
@@ -27,7 +27,7 @@
 ```
 
 ## Run notebooks
-
+- clone the repository locally once the tools are installed
 - open a terminal and cd into this cloned repo and run jupyter notebook
 
 ```bash

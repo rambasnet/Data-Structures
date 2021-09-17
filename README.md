@@ -27,13 +27,22 @@
 ```
 
 ## Run notebooks
+
 - clone the repository locally once the tools are installed
 - open a terminal and cd into this cloned repo and run jupyter notebook
+
 
 ```bash
     cd <cs2notebooks repo folder>
     jupyter notebook
 ```
 
+- open 00-TableOfContents notebook or open individual chapters
+
+## Stop Jupyter Notebook server
+
 - Enter ctrl+c to stop jupyter notebook from the terminal where its running from
-- $ conda deactivate # to deactivate the virtual env and go back to base installation
+
+```bash
+$ conda deactivate # to deactivate the virtual env and go back to base installation
+```

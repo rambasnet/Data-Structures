@@ -1,15 +1,18 @@
 # Data Structures & Applications
+
 - Jupyter Notebooks for teaching and learning Data structures using C++
 - Some chapters of notebooks are based on open-source textbook: [CS2 Software Design & Data Structures](https://opendsa-server.cs.vt.edu/ODSA/Books/CS2/html/IntroDSA.html) from Virginia Tech's OpenDSA Project
 
 
 ## Requirements
+
 - Linux/MacOS/WSL on Windows (Not tested on Windows itself)
 - Jupyter Notebook
 - xeus-cling notebook kernel
 - git
 
 ## Install required tools
+
 - Note: these libraries and tools need to be installed just once, if you've Jupyter Notebook with C++, you can safely ignore this section.
 
 - Install Miniconda: [https://conda.io/miniconda.html](https://conda.io/miniconda.html)
